@@ -1,0 +1,14 @@
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\bin\Debug\netcoreapp2.1\CardLabApi.deps.json
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\bin\Debug\netcoreapp2.1\CardLabApi.runtimeconfig.json
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\bin\Debug\netcoreapp2.1\CardLabApi.runtimeconfig.dev.json
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\bin\Debug\netcoreapp2.1\CardLabApi.dll
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\bin\Debug\netcoreapp2.1\CardLabApi.pdb
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.csprojAssemblyReference.cache
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.csproj.CoreCompileInputs.cache
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.RazorAssemblyInfo.cache
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.RazorAssemblyInfo.cs
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.AssemblyInfoInputs.cache
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.AssemblyInfo.cs
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.RazorTargetAssemblyInfo.cache
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.dll
+C:\Dan\Dev\CardLab\CardLab\CardLabApi\obj\Debug\netcoreapp2.1\CardLabApi.pdb
