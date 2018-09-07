@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dan\\Dev\\CardLab\\CardLab\\CardLabApi\\CardLabApi.csproj",
+      "projectUniqueName": "C:\\Dan\\Dev\\CardLab\\Source\\CardLabApi\\CardLabApi.csproj",
       "projectName": "CardLabApi",
-      "projectPath": "C:\\Dan\\Dev\\CardLab\\CardLab\\CardLabApi\\CardLabApi.csproj",
+      "projectPath": "C:\\Dan\\Dev\\CardLab\\Source\\CardLabApi\\CardLabApi.csproj",
       "packagesPath": "C:\\Users\\frankda\\.nuget\\packages\\",
-      "outputPath": "C:\\Dan\\Dev\\CardLab\\CardLab\\CardLabApi\\obj\\",
+      "outputPath": "C:\\Dan\\Dev\\CardLab\\Source\\CardLabApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

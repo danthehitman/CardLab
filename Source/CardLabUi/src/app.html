@@ -1,3 +1,21 @@
 <template>
-  <h1>${message}</h1>
+  <require from="bootstrap/dist/css/bootstrap.css"></require>
+  <require from="./styles.css"></require>
+  <require from="./card-list"></require>
+
+  <nav class="navbar navbar-light bg-light fixed-top" role="navigation">
+    <a class="navbar-brand" href="#">
+      <i class="fa fa-user"></i>
+      <span>Cards</span>
+    </a>
+  </nav>
+
+  <loading-indicator loading.bind="router.isNavigating || api.isRequesting"></loading-indicator>
+
+  <div class="container">
+    <div class="row">
+      <card-list class="col-md-4"></card-list>
+      <router-view class="col-md-8"></router-view>
+    </div>
+  </div>
 </template>
