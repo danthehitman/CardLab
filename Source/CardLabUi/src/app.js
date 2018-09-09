@@ -11,7 +11,7 @@ export class App {
     config.title = 'Cards';
     config.map([
       { route: '',              moduleId: PLATFORM.moduleName('no-selection'),   title: 'Select'},
-      { route: 'cards/:id',  moduleId: PLATFORM.moduleName('card-detail'), name:'cards' }
+      { route: 'cards/:id',  moduleId: PLATFORM.moduleName('card-detail'), name: 'cards' }
     ]);
 
     this.router = router;

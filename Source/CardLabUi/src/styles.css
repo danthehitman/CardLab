@@ -50,3 +50,14 @@ li.list-group-item > a {
 li.list-group-item.active > a {
   color: white;
 }
+
+.c-example__tilt {
+  width: 50vw;
+  height: 50vh;
+  display: block;
+  background-color: black;
+  /* background-image: linear-gradient(135deg, #ed21ff 0%, #9e21ff 100%, #9e21ff 100%); */
+  box-shadow: 0 3px 47px rgba(0, 0, 0, 0.2);
+  transform-style: preserve-3d;
+  transform: perspective(300px);
+}

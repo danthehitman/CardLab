@@ -2,10 +2,12 @@
   <div class="card-list">
     <ul class="list-group">
       <li repeat.for="card of cards" class="list-group-item ${card.id === $parent.selectedId ? 'active' : ''}">
+        <div class="[ c-example__tilt ] js-tilt" data-tilt>
         <a route-href="route: cards; params.bind: {id:card.id}" click.delegate="$parent.select(card)">
           <h4>${card.name}</h4>
           <p>${card.description}</p>
         </a>
+        </div>
       </li>
     </ul>
   </div>
